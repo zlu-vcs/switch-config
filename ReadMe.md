@@ -1,6 +1,7 @@
 # inital setup 
-## update file path and project folder in `index.js`
-Project Base const baseUrl = 'C:/Users/zlu/Sites/VCS.CSRNet';
+## copy `.env.example` to `.env` then fill in all parameters
+'BACKEND_BASE_PATH', 'IMPS_WEB_CONFIG_FIEL_PATH', 
+'IMPS_APP_SETTINGS_CONFIG_FIEL_PATH', 'JH_WEB_CONFIG_FIEL_PATH', 'JH_APP_SETTINGS_CONFIG_FIEL_PATH'
 
 # swap project command
 ## swap to jh project 
